@@ -16,12 +16,12 @@ You need to gather information about login attempts for certain dates and times 
 
 Common operators for working with numeric or date and time data will help you accurately filter data. These are some of the operators you'll use:
 
-- = (equal)
-- > (greater than)
-- < (less than)
-- <> (not equal to)
-- >= (greater than or equal to)
-- <= (less than or equal to)
+- equal (=)
+-greater than (>)
+- less than (<)
+- not equal to (<>)
+- greater than or equal to (>=)
+- less than or equal to (<=)
 
 ### Note: 
 This is a pre-made lab; follow along with the prompts and outputs to understand what is happening.
