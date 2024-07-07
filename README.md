@@ -17,7 +17,7 @@ You need to gather information about login attempts for certain dates and times 
 Common operators for working with numeric or date and time data will help you accurately filter data. These are some of the operators you'll use:
 
 - equal (=)
--greater than (>)
+- greater than (>)
 - less than (<)
 - not equal to (<>)
 - greater than or equal to (>=)
