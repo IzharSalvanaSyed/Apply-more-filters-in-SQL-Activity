@@ -23,7 +23,10 @@ Common operators for working with numeric or date and time data will help you ac
 >= (greater than or equal to)
 <= (less than or equal to)
 
-### Note:  
+### Note: 
+This is a pre-made lab; follow along with the prompts and outputs to understand what is happening.
+
+## Retrieve login attempts after a certain date <a name="retrieve">
 In this task, you need to investigate a recent security incident. To do this, you need to gather information about login attempts made after a certain date.
 
 - Complete the SQL query to retrieve data for login attempts made after `'2022-05-09'`.
